@@ -1,0 +1,20 @@
+digraph {
+	node [color=purple shape=egg style=filled]
+	100
+	100 -> 50 [label=esq]
+	50
+	50 -> 25 [label=esq]
+	25
+	25 -> 10 [label=esq]
+	10
+	50 -> 75 [label=dir]
+	75
+	75 -> 80 [label=dir]
+	80
+	100 -> 150 [label=dir]
+	150
+	150 -> 125 [label=esq]
+	125
+	150 -> 175 [label=dir]
+	175
+}
