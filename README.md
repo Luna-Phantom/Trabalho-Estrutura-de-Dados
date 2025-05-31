@@ -1,6 +1,8 @@
 
 # Estrutura de Dados - Grafo e Árvore Binária
 
+Repositório para armazenar resumos sobre git e github do curso 
+
 [Repositório do Trabalho](https://github.com/Luna-Phantom/Trabalho-Estrutura-de-Dados)
 
 ## 📔 Documentação 
@@ -10,7 +12,7 @@
 
 | Graphviz Online | 
 |-------|
-| Você pega o arquivo no repositório chamado arvore que está localizado na pasta imagens.
+| Você pega o arquivo no repositório chamado arvore [Clique aqui para ser redirecionado](https://raw.githubusercontent.com/Luna-Phantom/Trabalho-Estrutura-de-Dados/refs/heads/main/imagens/arvore).
 | Abre o mesmo e copia tudo que está dentro dele.
 | Acesse o site: [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/).
 | Cole o que você havia copiado no arquivo na parte que pode digitar.
