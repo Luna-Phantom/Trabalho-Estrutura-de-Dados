@@ -33,3 +33,10 @@ def desenhar(raiz):
 
     desenho_recursivo(raiz)
     return dot
+
+raiz = None
+for ip in [100, 50, 150, 25, 75, 125, 175, 80, 10]:
+    raiz = inserir(raiz, ip)
+
+dot = desenhar(raiz)
+dot.render('imagens/arvore', view=True)
