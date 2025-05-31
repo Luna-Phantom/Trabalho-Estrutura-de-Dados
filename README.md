@@ -1,8 +1,6 @@
 
 # Estrutura de Dados - Grafo e Árvore Binária
 
-Repositório do trabalho:
-
 [Repositório do Trabalho](https://github.com/Luna-Phantom/Trabalho-Estrutura-de-Dados)
 
 ## 📔 Documentação 
