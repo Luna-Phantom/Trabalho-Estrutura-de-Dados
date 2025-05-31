@@ -18,4 +18,18 @@ def inserir(raiz, ip):
 def desenhar(raiz):
     dot = Digraph(format='png')
     dot.attr('node', shape='egg', style='filled', color='purple')
+
+    def desenho_recursivo(no):
+        if no is None:
+            return
+        dot.node(str(no.ip))
+
+        if no.esquerdo:
+            dot.edge(str(no.ip), str(no.esquerdo.ip), label="esq")
+            desenho_recursivo(no.esquerdo)
+        if no.direito:
+            dot.edge(str(no.ip), str(no.direito.ip), label="dir")
+            desenho_recursivo(no.direito)
+
+    desenho_recursivo(raiz)
     return dot
