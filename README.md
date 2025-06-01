@@ -21,3 +21,11 @@ Repositório para armazenar resumos sobre git e github do curso
 
 ## 📷 Imagem mostrando a árvore pelo site Graphviz Online
 ![📷](https://raw.githubusercontent.com/Luna-Phantom/Trabalho-Estrutura-de-dados/main/imagens/grafo_online.png)
+
+## 🙎 Trabalho Feito por: 
+
+- Rafael Luna Rodrigues
+- Pedro Barbosa Farias
+- Marcos Vinícius Silva Estrela
+- Abner Batista da Silva
+- Marlon da Silva Machado
