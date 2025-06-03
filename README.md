@@ -8,6 +8,17 @@ Repositório para armazenar resumos sobre git e github do trabalho de estrutura 
 ## 📔 Documentação 
 - [Documentação Graphviz](https://graphviz.readthedocs.io/en/stable/)
 
+## 🗒️Como instalar o Graphzviz na sua Máquina:
+| Graphviz na máquina | 
+|-------|
+| Instalando pelo Visual Studio, você irá abrir o terminal e digitar o seguinte comando
+| pip install graphviz
+| Fazendo isso instalará a biblioteca do Graphviz
+| Além disso é preciso instalar o software do Graphviz também para que o código funcione 100%
+| Link para donwload no site oficial: [Donwload Graphviz](https://graphviz.org/download/)
+| Após feita a instalação e baixado os arquivos, quando executar o código ele irá criar o png da árvore e um outro arquivo.
+| Esse outro arquivo mais abaixo será explicado como utilizar o mesmo no Graphviz Online!
+
 ## 🖥️ Site para usar o arquivo do GitHub e como usar:
 
 | Graphviz Online | 
