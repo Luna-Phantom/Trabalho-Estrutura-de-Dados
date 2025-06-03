@@ -1,7 +1,7 @@
 
 # Estrutura de Dados - Grafo e Árvore Binária
 
-Repositório para armazenar resumos sobre git e github do curso 
+Repositório para armazenar resumos sobre git e github do trabalho de estrutura de dados 
 
 [Repositório do Trabalho](https://github.com/Luna-Phantom/Trabalho-Estrutura-de-Dados)
 
