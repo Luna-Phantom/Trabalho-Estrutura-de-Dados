@@ -3,40 +3,28 @@
 
 Repositório para armazenar resumos sobre git e github do trabalho de estrutura de dados 
 
-[Repositório do Trabalho](https://github.com/Luna-Phantom/Trabalho-Estrutura-de-Dados)
+🌐 Simulação de Rede
+📋 Visão Geral do Projeto
+Este projeto é uma aplicação de Simulação de Rede desenvolvida em Python com Tkinter. Ele modela uma rede de computadores como uma árvore binária, onde cada nó representa um computador com um endereço IP. A aplicação permite adicionar IPs, simular a propagação de um vírus com encapsulamento, visualizar a rede em um canvas e gerar relatórios em texto e CSV.
 
-## 📔 Documentação 
-- [Documentação Graphviz](https://graphviz.readthedocs.io/en/stable/)
+🚀 Funcionalidades
 
-## 🗒️Como instalar o Graphzviz na sua Máquina:
-| Graphviz na máquina | 
-|-------|
-| Instalando pelo Visual Studio, você irá abrir o terminal e digitar o seguinte comando
-| pip install graphviz
-| Fazendo isso instalará a biblioteca do Graphviz
-| Além disso é preciso instalar o software do Graphviz também para que o código funcione 100%
-| Link para donwload no site oficial: [Donwload Graphviz](https://graphviz.org/download/)
-| Após feita a instalação e baixado os arquivos, quando executar o código ele irá criar o png da árvore e um outro arquivo.
-| Esse outro arquivo mais abaixo será explicado como utilizar o mesmo no Graphviz Online!
+Validação de IP ✅: Verifica IPs válidos (ex.: 192.168.0.1).
+Visualização da Rede 🎨: Mostra a rede como árvore binária com cores:
+🟠 Laranja: Saudável
+🟢 Verde: Infectado
+🔴 Vermelho: Encapsulado
 
-## 🖥️ Site para usar o arquivo do GitHub e como usar:
 
-| Graphviz Online | 
-|-------|
-| Você pega o arquivo no repositório chamado arvore [Clique aqui para ser redirecionado](https://raw.githubusercontent.com/Luna-Phantom/Trabalho-Estrutura-de-Dados/refs/heads/main/imagens/arvore).
-| Abre o mesmo e copia tudo que está dentro dele.
-| Acesse o site: [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/).
-| Cole o que você havia copiado no arquivo na parte que pode digitar.
-| Caso tenha algo escrito apague tudo antes de colar.
-| Após colar irá gerar a imagem da Árvore Binária de Busca.
+Simulação de Vírus 🦠: Propaga infecção com 50% de chance.
+Encapsulamento 🛡️: Encapsula nós infectados e filhos.
+Relatórios 📊: Gera relatórios e exporta para CSV.
+Interface Gráfica 🖥️: Usando Tkinter para interação.
 
-## 📷 Imagem mostrando a árvore pelo site Graphviz Online
-![📷](https://raw.githubusercontent.com/Luna-Phantom/Trabalho-Estrutura-de-dados/main/imagens/grafo_online.png)
+👥 Trabalho Feito por:
 
-## 🙎 Trabalho Feito por: 
-
-- Rafael Luna Rodrigues
-- Pedro Barbosa Farias
-- Marcos Vinícius Silva Estrela
-- Abner Batista da Silva
-- Marlon da Silva Machado
+Rafael Luna Rodrigues
+Pedro Barbosa Frias
+Marcos Vinicius Silva Estrela
+Abner Batista da Silva
+Marlon da Silva Machado
