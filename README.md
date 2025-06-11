@@ -17,10 +17,10 @@ Este projeto é uma aplicação de Simulação de Rede desenvolvida em Python co
  - 🔴 Vermelho: Encapsulado
 
 
-Simulação de Vírus 🦠: Propaga infecção com 50% de chance.
-Encapsulamento 🛡️: Encapsula nós infectados e filhos.
-Relatórios 📊: Gera relatórios e exporta para CSV.
-Interface Gráfica 🖥️: Usando Tkinter para interação.
+- Simulação de Vírus 🦠: Propaga infecção com 50% de chance.
+- Encapsulamento 🛡️: Encapsula nós infectados e filhos.
+- Relatórios 📊: Gera relatórios e exporta para CSV.
+- Interface Gráfica 🖥️: Usando Tkinter para interação.
 
 👥 Trabalho Feito por:
 
