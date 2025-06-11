@@ -24,8 +24,8 @@ Interface Gráfica 🖥️: Usando Tkinter para interação.
 
 👥 Trabalho Feito por:
 
-Rafael Luna Rodrigues
-Pedro Barbosa Frias
-Marcos Vinicius Silva Estrela
-Abner Batista da Silva
-Marlon da Silva Machado
+- Rafael Luna Rodrigues
+- Pedro Barbosa Frias
+- Marcos Vinicius Silva Estrela
+- Abner Batista da Silva
+- Marlon da Silva Machado
