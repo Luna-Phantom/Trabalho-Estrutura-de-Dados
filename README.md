@@ -4,6 +4,7 @@
 Repositório para armazenar resumos sobre git e github do trabalho de estrutura de dados 
 
 🌐 Simulação de Rede
+
 📋 Visão Geral do Projeto
 Este projeto é uma aplicação de Simulação de Rede desenvolvida em Python com Tkinter. Ele modela uma rede de computadores como uma árvore binária, onde cada nó representa um computador com um endereço IP. A aplicação permite adicionar IPs, simular a propagação de um vírus com encapsulamento, visualizar a rede em um canvas e gerar relatórios em texto e CSV.
 
