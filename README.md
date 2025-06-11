@@ -10,11 +10,11 @@ Este projeto é uma aplicação de Simulação de Rede desenvolvida em Python co
 
 🚀 Funcionalidades
 
-Validação de IP ✅: Verifica IPs válidos (ex.: 192.168.0.1).
-Visualização da Rede 🎨: Mostra a rede como árvore binária com cores:
-🟠 Laranja: Saudável
-🟢 Verde: Infectado
-🔴 Vermelho: Encapsulado
+- Validação de IP ✅: Verifica IPs válidos (ex.: 192.168.0.1).
+- Visualização da Rede 🎨: Mostra a rede como árvore binária com cores:
+ - 🟠 Laranja: Saudável
+ - 🟢 Verde: Infectado
+ - 🔴 Vermelho: Encapsulado
 
 
 Simulação de Vírus 🦠: Propaga infecção com 50% de chance.
